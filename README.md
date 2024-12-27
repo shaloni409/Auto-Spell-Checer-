@@ -1,1 +1,1 @@
-# Auto-Spell-Checer-
+# Auto-Spell-Checker
